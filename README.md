@@ -1,2 +1,2 @@
-# jiny text main
+# jiny text
 # Under development
